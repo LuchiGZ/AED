@@ -49,8 +49,6 @@ Z<sup>2</sup>| Adicion.cpp | Z
 a, b ∈ Z
 ## Representación visual
 ![Diagrama](https://raw.githubusercontent.com/LuchiGZ/AED/master/01-Adicion/Diagrama.PNG)
-
-Nodos rectangulares representan outputs, nodos redondeados representan inputs, texto entre comillas es texto a mostrar, y flechas representan nuevas líneas.
 ## Representación textual
 * Leer a.
 * Leer b.
