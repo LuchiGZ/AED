@@ -6,8 +6,7 @@
 * 01 Adicion
 # Resolución de Problemas — Adición
 ## Objetivos
-* Completar todas las etapas de la resolución de problemas para un problema
-simple: la adición de dos números.
+* Completar todas las etapas de la resolución de problemas para un problema simple: la adición de dos números.
 ## Temas
 * Resolución de problemas.
 * Entrada de datos.
@@ -18,9 +17,7 @@ simple: la adición de dos números.
 ## Problema
 Obtener del usuario dos números y mostrarle la suma.
 ## Tareas
-1. Escribir el archivo readme.md que actúa como front page de la resolución que
-contenga lo solicitado en la sección “Carpetas para cada Resolución”, y en
-particular, el Análisis del Problema y el Diseño de la Solución:
+1. Escribir el archivo readme.md que actúa como front page de la resolución que contenga lo solicitado en la sección “Carpetas para cada Resolución”, y en particular, el Análisis del Problema y el Diseño de la Solución:
 * Etapa #1: Análisis del problema:
   * Transcripción del problema.
   * Refinamiento del problema e Hipótesis de trabajo.
