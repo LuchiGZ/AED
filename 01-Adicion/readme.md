@@ -1,5 +1,3 @@
-* Número de equipo
-* Nombre de equipo (opcional)
 * Autores de la resolución
   * LuchiGZ
   * 147.168-5
