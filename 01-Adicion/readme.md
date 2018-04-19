@@ -46,7 +46,7 @@ Input | Process | Output
 Z<sup>2</sup>| Adicion.cpp | Z
 # Diseño de la solucón
 ## Léxico
-Se utilizan 'a' y 'b' pertenecientes a los números enteros.
+a, b ∈ Z
 ## Representación visual
 ![Diagrama](https://raw.githubusercontent.com/LuchiGZ/AED/master/01-Adicion/Diagrama.PNG)
 
