@@ -48,5 +48,5 @@ El programa debe:
 ## Modelo IPO
 Input | Process | Output
 ------|---------|--------
-a, b| a+b | Mostrar a+b
+a, b (int)| a+b | Mostrar a+b (int)
 # Diseño de la solucón
