@@ -52,6 +52,7 @@ a, b (int)| a+b | Mostrar a+b (int)
 Se utilizan 'a' y 'b' pertenecientes a los números enteros.
 ## Representación visual
 ![Diagrama](https://raw.githubusercontent.com/LuchiGZ/AED/master/01-Adicion/Diagrama%20Adicion.PNG)
+
 Nodos rectangulares representan outputs, nodos redondeados representan inputs, texto entre comillas es texto a mostrar, y flechas representan nuevas líneas.
 ## Representación textual
 * Pedir y leer de ES y guardar en a.
