@@ -43,7 +43,7 @@ El programa debe:
 ## Modelo IPO
 Input | Process | Output
 ------|---------|--------
-a, b (int)| a+b | Mostrar a+b (int)
+Z<sup>2</sup>| Adicion.cpp | Z
 # Diseño de la solucón
 ## Léxico
 Se utilizan 'a' y 'b' pertenecientes a los números enteros.
